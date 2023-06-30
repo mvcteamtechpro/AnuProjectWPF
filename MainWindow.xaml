@@ -47,8 +47,6 @@
             </Grid>
         </StackPanel>
         <!--#endregion-->
-
-
         <!--#region Side B-->
         <StackPanel Grid.Column="1">
             <Grid>
